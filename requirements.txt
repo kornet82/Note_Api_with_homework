@@ -6,7 +6,8 @@ flask-marshmallow==0.14.0
 marshmallow-sqlalchemy==0.24.2
 Flask-HTTPAuth==4.2.0
 passlib
-
+Werkzeug==2.0.0
+jinja2==3.0.3
 gunicorn
 psycopg2-binary
 ipython==8.1.0
